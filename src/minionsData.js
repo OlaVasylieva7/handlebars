@@ -15,7 +15,7 @@ export const minions = [
   },
   {
     name: "Bob",
-    img: "https://ih1.redbubble.net/image.5180322596.1776/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhVbYP2PSs2qGf2eymjf1ZzKDkyrhbaXIcweXL7ZiJFdprBjRt4vg5l1bys7jedlRcH3U&usqp=CAU",
     appearance: "short, two different colored eyes",
     character: "innocent, childlike and loves teddy bears",
     association: "teddy bear",
@@ -23,7 +23,7 @@ export const minions = [
   {
     name: "Dave",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfS5B3KlUIdxmSNeseCRfsOuTK3x7NeQevEije1W0Wvzeh6qLHiuARQrI9E5YmOOKxQ7o&usqp=CAU",
-    appearance: "medium height, two eyee",
+    appearance: "medium height, two eyes",
     character: "kind, funny and loves video games",
     association: "phone",
   },
