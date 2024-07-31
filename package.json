@@ -3,28 +3,18 @@
   "source": "src/index.html",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OlaVasylieva7/handlebars.git"
+    "start": "parcel src/index.html --open --no-source-maps"
   },
   "keywords": [],
-  "author": "Oleksandra",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OlaVasylieva7/handlebars/issues"
-  },
-  "homepage": "https://github.com/OlaVasylieva7/handlebars#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
   },
   "dependencies": {
-    "handlebars": "^4.7.8",
-    "parcel-plugin-handlebars-precompile": "^1.0.2"
+    "handlebars": "^4.7.8"
   }
 }
